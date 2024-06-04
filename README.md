@@ -8,3 +8,4 @@ Aab Sirf Khub Sari Problems Lagani hai .....Din Raat Sirf Problems hi Problems s
 *Even times of the XOR of any number is equal to zero .. 
 
 *Odd times XOR of any number is equal to the number itself..
+*XOR of 1 and 3 is always 2 and average is also 2 . 
