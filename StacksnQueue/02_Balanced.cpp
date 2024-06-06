@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// This is the code of the balanced paranthesis problem . which is the module first problem as mentioned ...
 
 unordered_map<char,int> symbols = {{'[',-1},{'{',-2},{'(',-3},{']',1},{'}',2},{')',3}};
 string isBalanced(string s){
@@ -19,7 +20,7 @@ string isBalanced(string s){
       }
     if(st.empty()) return "YES";
     return "NO";
-    
+
 }
 
 int main()
