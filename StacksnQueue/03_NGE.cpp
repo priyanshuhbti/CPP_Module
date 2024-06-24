@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//Some NGE Vectors needs to be changed accordingly .. to correct it up..
 
 vector<int> NGE(vector<int> v){
   vector<int> nge(v.size());
