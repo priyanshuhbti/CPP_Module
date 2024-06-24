@@ -11,6 +11,7 @@ vector<int> NGE(vector<int> v){
         st.pop();
         
         
+        
     }
     st.push(i);
 
